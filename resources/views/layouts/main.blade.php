@@ -2,6 +2,7 @@
 <html lang="id">
 
 <head>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Blog Terlengkap</title>
